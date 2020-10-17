@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Taufiq Rorkyendo](https://github.com/rorkyendo)
+- Place: Medan, Indonesia
+- Bio: Web developer and System analyst
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)
